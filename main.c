@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
 		count++;
 		if (read_line > 0)
 		{
-			execute(content, &stack, counter, file);
+			execute(content, &stack, count, file);
 		}
 		free(content);
 	}

@@ -1,2 +1,1 @@
-# monty
-A repo for monty programming
+0x19. C - Stacks, Queues - LIFO, FIFO
